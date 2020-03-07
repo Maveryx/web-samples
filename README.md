@@ -1,2 +1,2 @@
 # web-samples
-Maveryx Demo 
+A sample project for Web test automation
